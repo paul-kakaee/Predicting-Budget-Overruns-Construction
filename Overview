@@ -1,0 +1,14 @@
+ The objective of this project is to analyze historical data from construction projects to predict the likelihood of budget overruns. By identifying key factors contributing to budget overruns, the project aims to provide actionable insights for better cost management and forecasting.
+
+Sample Dataset
+Create a synthetic dataset with the following columns:
+
+Project_ID: Unique identifier for each project
+Project_Type: Type of project (e.g., Residential, Commercial, Industrial)
+Initial_Budget: Initial budget allocated
+Final_Cost: Final cost incurred
+Labor_Hours: Total labor hours used
+Material_Cost: Cost of materials used
+Equipment_Cost: Cost of equipment used
+Project_Duration: Duration of the project in days
+Budget_Overrun: Binary indicator (0 = No Overrun, 1 = Overrun)
